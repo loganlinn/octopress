@@ -1,11 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://yoursite.com/blog/archives/</loc>
-        <lastmod>2011-10-15T15:30:34-07:00</lastmod>
+        <loc>http://loganlinn.com/blog/2011/10/15/now-running-octopress/</loc>
+        <lastmod>2011-10-15T17:44:58-07:00</lastmod>
     </url>
     <url>
-        <loc>http://yoursite.com/</loc>
-        <lastmod>2011-10-15T15:30:34-07:00</lastmod>
+        <loc>http://loganlinn.com/blog/archives/</loc>
+        <lastmod>2011-10-15T17:44:58-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://loganlinn.com/</loc>
+        <lastmod>2011-10-15T17:44:58-07:00</lastmod>
     </url>
 </urlset>

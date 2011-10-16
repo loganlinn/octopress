@@ -1,16 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2011-10-15T15:37:04-07:00</updated>
-  <id>http://yoursite.com/</id>
+  <title><![CDATA[loganlinnlogs]]></title>
+  <link href="http://loganlinn.com/atom.xml" rel="self"/>
+  <link href="http://loganlinn.com/"/>
+  <updated>2011-10-15T17:45:04-07:00</updated>
+  <id>http://loganlinn.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Logan Linn]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Now Running Octopress]]></title>
+    <link href="http://loganlinn.com/blog/2011/10/15/now-running-octopress/"/>
+    <updated>2011-10-15T16:12:00-07:00</updated>
+    <id>http://loganlinn.com/blog/2011/10/15/now-running-octopress</id>
+    <content type="html"><![CDATA[<p>As my friends are aware, I love <a href="http://ruby-lang.org">Ruby</a> [1]. I was,
+and still am, hungry to write more of it.  Shortly after putting up my
+wimpy Rails app for blogging, I had already decided it wasn&#8217;t going to
+work that well. I realized I wrote the app to create something in Rails
+and deploy it on Heroku. Fun, but not a long term solution. I got
+discouraged and <s>stopped</s> failed to start blogging in hopes to
+build a system I would use.</p>
+
+<p>Still on my Ruby binge, I decided to use Sinatra to make a super simple
+app that would serve my static
+<a href="http://daringfireball.net/projects/markdown/">Markdown</a> files. But
+somewhere in between graduating and moving across the country, I lost
+track of that project and its source code. I also learned about
+<a href="https://github.com/mojombo/jekyll">Jekyll</a>, which did everything I
+wanted my app to do and more. I got discouraged again.</p>
+
+<p>Today I learned about <a href="http://octopress.org/">Octopress</a>, a Sinatra
+based framework that utilizes Jekyll. Described as an, &#8220;obsessively
+designed framework&#8221;, I was delighted to find that it&#8217;s almost exactly
+what I wanted to build myself. And since it&#8217;s a Rack app, it plays nice
+with <a href="http://pow.cx/">pow</a>, another tool I&#8217;ve been looking for a reason
+to use. So, shout out to <a href="https://github.com/imathis">Brandon Mathis</a>
+and the Octopress contributors for making a great tool!</p>
+
+<p>[1] They&#8217;ll also tell you that I have attention deficit disorder when it
+comes to learning and using new programming languages.</p>
+]]></content>
+  </entry>
   
 </feed>
