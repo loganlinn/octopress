@@ -8,11 +8,11 @@ categories:
 
 As my friends are aware, I love [Ruby](http://ruby-lang.org) [1]. I was,
 and still am, hungry to write more of it.  Shortly after putting up my
-wimpy Rails app for blogging, I had already decided it wasn't going to
-work that well. I realized I mainly wrote the app to create something in Rails
-and deploy it on Heroku. Fun, but not a long term solution. I got
-discouraged and <s>stopped</s> failed to start blogging in hopes to
-build a system I would use.
+[wimpy Rails app for blogging](http://loganlinn.heroku.com), I had
+a feeling that it wasn't going to work that well. I realized I mainly
+wrote the app to create something in Rails and deploy it on Heroku. Fun,
+but not a long term solution. I got discouraged and <s>stopped</s>
+failed to start blogging in hopes to build a system I would use.
 
 Still trying to feed my Ruby appetite, I decided to use Sinatra to make
 a super simple app that would serve my static 
