@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[loganlinnlogs]]></title>
+  <title><![CDATA[loganlinnlog]]></title>
   <link href="http://loganlinn.com/atom.xml" rel="self"/>
   <link href="http://loganlinn.com/"/>
-  <updated>2011-12-26T19:37:16-05:00</updated>
+  <updated>2011-12-26T20:24:00-05:00</updated>
   <id>http://loganlinn.com/</id>
   <author>
     <name><![CDATA[Logan Linn]]></name>
