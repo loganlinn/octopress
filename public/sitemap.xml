@@ -1,15 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://loganlinn.com/blog/2011/05/03/gitcrunch/</loc>
+        <lastmod>2011-12-26T18:59:42-05:00</lastmod>
+    </url>
+    <url>
         <loc>http://loganlinn.com/blog/2011/10/15/now-running-octopress/</loc>
-        <lastmod>2011-10-15T18:29:17-07:00</lastmod>
+        <lastmod>2011-10-15T21:29:17-04:00</lastmod>
     </url>
     <url>
         <loc>http://loganlinn.com/blog/archives/</loc>
-        <lastmod>2011-10-15T18:29:17-07:00</lastmod>
+        <lastmod>2011-12-26T18:59:42-05:00</lastmod>
     </url>
     <url>
         <loc>http://loganlinn.com/</loc>
-        <lastmod>2011-10-15T18:29:17-07:00</lastmod>
+        <lastmod>2011-12-26T18:59:42-05:00</lastmod>
     </url>
 </urlset>

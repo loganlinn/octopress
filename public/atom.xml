@@ -4,7 +4,7 @@
   <title><![CDATA[loganlinnlogs]]></title>
   <link href="http://loganlinn.com/atom.xml" rel="self"/>
   <link href="http://loganlinn.com/"/>
-  <updated>2011-10-15T18:29:23-07:00</updated>
+  <updated>2011-12-26T18:59:43-05:00</updated>
   <id>http://loganlinn.com/</id>
   <author>
     <name><![CDATA[Logan Linn]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Now Running Octopress]]></title>
     <link href="http://loganlinn.com/blog/2011/10/15/now-running-octopress/"/>
-    <updated>2011-10-15T16:12:00-07:00</updated>
+    <updated>2011-10-15T16:12:00-04:00</updated>
     <id>http://loganlinn.com/blog/2011/10/15/now-running-octopress</id>
     <content type="html"><![CDATA[<p>As my friends are aware, I love <a href="http://ruby-lang.org">Ruby</a> [1]. I was,
 and still am, hungry to write more of it.  Shortly after putting up my
@@ -44,6 +44,24 @@ and the Octopress contributors for making a great tool!</p>
 
 <p>[1] They&#8217;ll also tell you that I have attention deficit disorder when it
 comes to learning and using new programming languages.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[gitcrunch]]></title>
+    <link href="http://loganlinn.com/blog/2011/05/03/gitcrunch/"/>
+    <updated>2011-05-03T21:32:00-04:00</updated>
+    <id>http://loganlinn.com/blog/2011/05/03/gitcrunch</id>
+    <content type="html"><![CDATA[<p>Just finished the last project for my Internet Software Development
+course (VT&#8217;s CS4244). It compares the similarity between repositories
+hosted on github. Repositories are scored based on similar commit
+patterns. The two dimensions that are currently incorporated are hour
+of the day and day of the week.</p>
+
+<p>You can check out the project is at <a href="http://gitcrunch.com">http://gitcrunch.com</a>.</p>
+
+<p><em>Update: This is now offline. I will try to resurrect the project
+sometime.</em></p>
 ]]></content>
   </entry>
   
